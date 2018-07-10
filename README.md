@@ -18,11 +18,11 @@ https://www.youtube.com/watch?v=xRXEc7pB0o0
 # Repository Layout
 
  - moduleFamily
-  - moduleSoftwareTool
-   - modules 
-    - microcontrollers
-    - processors
-    - interfaces
-    - power
-     - 3.3V
-     - ...
+  -- moduleSoftwareTool
+   --- modules 
+    ---- microcontrollers
+    ---- processors
+    ---- interfaces
+    ---- power
+     ----- 3.3V
+  - ...
