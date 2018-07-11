@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=xRXEc7pB0o0
 ## Repository Layout
 moduleFamily/moduleType/moduleName/moduleSoftwareTool/
 
-eg. Mansha/Interfaces/Buttons/16x1_Button
+eg. mansha/interfaces/buttons/16x1_Button
 
 ## ToDo
 
